@@ -12,11 +12,14 @@
 - Screw Master: Iman Zuhrah
 
 ### Apresentação geral do Projeto
-O objetivo deste projeto é fazer o gerenciamento do estoque laboratorial para manter o ambiente organizado. Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
+A meta deste projeto é fazer um sistema prático e funcional para o gerenciamento do estoque laboratorial para manter o ambiente organizado. 
 
+Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 - Cadastro, exclusão, edição e listagem de produtos.
 - [Funcionalidade 2]
 - [Funcionalidade 3]
+
+
   
 ---
 ### Tecnologias Utilizadas
