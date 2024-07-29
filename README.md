@@ -18,7 +18,7 @@ O objetivo deste projeto é fazer o gerenciamento do estoque laboratorial para m
 - IDE's utilizadas: VScode e Eclipse
 - Linguagem de programação utilizada: Java
 - Framework ou biblioteca utilizada: SpringBoot
-- Banco de dados utilizado: MySQL
+- Banco de dados utilizado: MySQL Workbench
 
 Estrutura do Projeto:
 - ?
