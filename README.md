@@ -15,10 +15,10 @@ O objetivo deste projeto é fazer o gerenciamento do estoque laboratorial para m
   
 ---
 ### Tecnologias Utilizadas
-IDE's utilizadas: VScode e Eclipse
-Linguagem de programação utilizada: Java
-Framework ou biblioteca utilizada: SpringBoot
-Banco de dados utilizado: MySQL
+- IDE's utilizadas: VScode e Eclipse
+- Linguagem de programação utilizada: Java
+- Framework ou biblioteca utilizada: SpringBoot
+- Banco de dados utilizado: MySQL
 
 Estrutura do Projeto:
 - ?
