@@ -4,7 +4,7 @@
 ## Sistema WEB para Gerenciamento de Estoque Laboratorial
 ## Descrição do Projeto
 - Este repositório contém o Trabalho de Conclusão de Curso (TCC) desenvolvido pelo Grupo 3 como requisito para a obtenção do grau de Tec. Desenvolvimento de Sistemas o SENAI.
-- ### Divisão de tarefas
+ ### Divisão de tarefas
 - Back-end: Leticia Santos e Iman Zuhrah
 - Front-end: Joyce Calixto e Pablo Leutério
 - Banco de Dados: Joyce Calixto e Matheus Generoso
