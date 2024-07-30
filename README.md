@@ -9,15 +9,15 @@
 - Front-end: Joyce Calixto e Pablo Eleutério
 - Banco de Dados: Joyce Calixto e Matheus Generoso
 - P.O (Product Owner): Joyce Calixto
-- Screw Master: Iman Zuhrah
+- Scrum Master: Iman Zuhrah
 
 ### Apresentação geral do Projeto
-A meta deste projeto é fazer um sistema prático e funcional para o gerenciamento do estoque laboratorial para manter o ambiente organizado. O período para a realização do projeto é de agosto a novembro de 2024, tendo 8 sprints para acompanhamento e monitoramento de tarefas a serem realizadas, tendo como público-alvo ???
+A meta deste projeto é fazer um sistema prático e funcional para o gerenciamento do estoque laboratorial para manter o ambiente organizado. O período para a realização do projeto é de agosto a novembro de 2024, tendo 8 sprints para acompanhamento e monitoramento de tarefas a serem realizadas, tendo como público-alvo empresas e instituições.
 
 Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 - Cadastro, exclusão, edição e listagem de produtos.
-- [Funcionalidade 2]
-- [Funcionalidade 3]
+- Uma interface simples e funcional.
+- Segurança nos dados e informações.
 
 
   
