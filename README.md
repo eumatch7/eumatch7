@@ -12,7 +12,7 @@
 - Screw Master: Iman Zuhrah
 
 ### Apresentação geral do Projeto
-A meta deste projeto é fazer um sistema prático e funcional para o gerenciamento do estoque laboratorial para manter o ambiente organizado. 
+A meta deste projeto é fazer um sistema prático e funcional para o gerenciamento do estoque laboratorial para manter o ambiente organizado. O período para a realização do projeto é de agosto a novembro de 2024, tendo 8 sprints para acompanhamento e monitoramento de tarefas a serem realizadas,
 
 Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 - Cadastro, exclusão, edição e listagem de produtos.
