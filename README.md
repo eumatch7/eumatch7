@@ -58,4 +58,4 @@ Estrutura do Projeto:
 ## FIGMA: 
 - https://www.figma.com/design/w2ERwYY13E2RN2DCtbOtn1/Untitled?node-id=0-1&m=dev&t=uMWlRL2Xt0fzaF8c-1
 ## Escopo do projeto
-https://docs.google.com/document/d/1OZlkzZZlPto7FwhkRi93ei8NkyQ9Thcc-gd2ZsLdAXI/edit?usp=sharing
+[https://docs.google.com/document/d/1OZlkzZZlPto7FwhkRi93ei8NkyQ9Thcc-gd2ZsLdAXI/edit?usp=sharing](https://docs.google.com/document/d/1OZlkzZZlPto7FwhkRi93ei8NkyQ9Thcc-gd2ZsLdAXI/edit?usp=sharing)
