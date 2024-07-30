@@ -32,3 +32,21 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 
 Estrutura do Projeto:
 - ?
+
+
+
+
+
+
+
+## Configurações dos Ambientes:
+- VsCode:
+
+
+
+
+- Eclipse:
+
+
+
+- Workbench:
