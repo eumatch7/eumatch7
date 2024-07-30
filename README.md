@@ -6,7 +6,7 @@
 - Este repositório contém o Trabalho de Conclusão de Curso (TCC) desenvolvido pelo Grupo 3 como requisito para a obtenção do grau de Tec. Desenvolvimento de Sistemas o SENAI.
  ### Divisão de tarefas
 - Back-end: Leticia Santos e Iman Zuhrah
-- Front-end: Joyce Calixto e Pablo Leutério
+- Front-end: Joyce Calixto e Pablo Eleutério
 - Banco de Dados: Joyce Calixto e Matheus Generoso
 - P.O (Product Owner): Joyce Calixto
 - Screw Master: Iman Zuhrah
