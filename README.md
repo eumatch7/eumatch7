@@ -25,7 +25,8 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 ### Tecnologias Utilizadas
 - IDE's utilizadas: VScode e Eclipse
 - Vscode extensões:
-- Linguagem de programação utilizada: Java
+- Linguagem de programação: Java
+- Linguagem de marcação: Html e CSS
 - Framework ou biblioteca utilizada: SpringBoot
 - Banco de dados utilizado: MySQL Workbench
 
