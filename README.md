@@ -52,3 +52,8 @@ Estrutura do Projeto:
 
 
 - Workbench:
+
+
+
+## FIGMA: 
+- https://www.figma.com/design/w2ERwYY13E2RN2DCtbOtn1/Untitled?node-id=0-1&m=dev&t=uMWlRL2Xt0fzaF8c-1
