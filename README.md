@@ -24,7 +24,8 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
   
 ---
 ### Tecnologias Utilizadas
-- IDE's utilizadas: VScode e Eclipse
+- IDE's utilizadas: Eclipse
+- Editor de código: VSCode
 - Vscode extensões:
 - Linguagem de programação: Java
 - Linguagem de marcação: Html e CSS
