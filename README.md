@@ -8,6 +8,7 @@
 - Back-end: Leticia Santos e Iman Zuhrah
 - Front-end: Joyce Calixto e Pablo Eleutério
 - Banco de Dados: Joyce Calixto e Matheus Generoso
+- Escrita do TCC: Iman Zuhrah
 - P.O (Product Owner): Joyce Calixto
 - Scrum Master: Iman Zuhrah
 
