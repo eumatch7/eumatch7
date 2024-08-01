@@ -3,7 +3,7 @@
 
 ## Sistema WEB para Gerenciamento de Estoque Laboratorial
 
-### Conograma de Tarefas (Planilha) - Por favor, preencher.
+### Cronograma de Tarefas (Planilha) - Por favor, preencher.
 https://docs.google.com/spreadsheets/d/1KMng3RvVyUQiGcmHzAMdVptcSDxujDbTjWmoQ_gILro/edit?usp=sharing
 
 ### Descrição 
