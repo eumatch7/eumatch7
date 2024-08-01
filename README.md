@@ -2,6 +2,10 @@
 - 👀 Vamos fazer o TCC?
 
 ## Sistema WEB para Gerenciamento de Estoque Laboratorial
+
+### Conograma de Tarefas (Planilha) - Por favor, preencher.
+https://docs.google.com/spreadsheets/d/1KMng3RvVyUQiGcmHzAMdVptcSDxujDbTjWmoQ_gILro/edit?usp=sharing
+
 ### Descrição 
 - Este repositório contém o Trabalho de Conclusão de Curso (TCC) desenvolvido pelo Grupo 3 como requisito para a obtenção do grau de Tec. Desenvolvimento de Sistemas o SENAI.
  #### Divisão de tarefas
