@@ -73,3 +73,5 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 
 ## Documentação ambiente e códigos
 
+# Documentação (Leticia santos):
+- https://docs.google.com/document/d/1Kaejc34WD1cN4UI53WJpksV5_zstMbJ1ra1WJ8eqg4A/edit?usp=sharing
