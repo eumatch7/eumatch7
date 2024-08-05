@@ -62,7 +62,7 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 
 
 
-## FIGMA: 
+## Figma: 
 - https://www.figma.com/design/w2ERwYY13E2RN2DCtbOtn1/Untitled?node-id=0-1&m=dev&t=uMWlRL2Xt0fzaF8c-1
   
 ## Escopo do Projeto:
@@ -70,3 +70,10 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 
 ## TCC - Introdução (Iman Zuhrah):
 - https://docs.google.com/document/d/15fKSKGaBNS2sdm9DncuSGUXZ9_MbejnLgoXroKpDul0/edit?usp=sharing
+
+## Documentação ambiente e códigos
+-Leticia
+-Joyce
+-Iman
+-Pablo
+-Generoso
