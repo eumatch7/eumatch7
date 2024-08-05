@@ -27,7 +27,7 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 
   
 ---
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas:
 - IDE's utilizadas: Eclipse
 - Editor de código: VSCode
 - Vscode extensões:
@@ -36,7 +36,7 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 - Framework ou biblioteca utilizada: SpringBoot
 - Banco de dados utilizado: MySQL Workbench
 
-Estrutura do Projeto:
+## Estrutura do Projeto:
 - ?
 
 
@@ -45,7 +45,7 @@ Estrutura do Projeto:
 
 
 
-### Configurações dos Ambientes:
+## Configurações dos Ambientes:
 #### VsCode:
 
 
