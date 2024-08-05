@@ -72,8 +72,4 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 - https://docs.google.com/document/d/15fKSKGaBNS2sdm9DncuSGUXZ9_MbejnLgoXroKpDul0/edit?usp=sharing
 
 ## Documentação ambiente e códigos
--Leticia
--Joyce
--Iman
--Pablo
--Generoso
+
