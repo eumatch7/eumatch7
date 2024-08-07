@@ -46,8 +46,8 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 ## Configurações dos Ambientes:
 #### VsCode:
 
-
-
+- Guia de instalção do editor de códigos (vscode):
+https://docs.google.com/document/d/1ox-8mLrmiqCQhdl6is4NNLxfaSkC1Mfo5IRzKUpik8k/edit?usp=sharing
 
 #### Eclipse:
 
