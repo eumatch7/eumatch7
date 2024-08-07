@@ -60,6 +60,9 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 
 #### Workbench:
 
+- Guia de instalção do banco de dados (Mysql Workbench):
+  https://docs.google.com/document/d/1LRAyPvH-ttcJy9RNTm1plIsPiJ3iO8CI-HP6xhx1PZ0/edit?usp=sharing
+
 
 
 ## Figma: 
