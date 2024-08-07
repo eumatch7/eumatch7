@@ -79,5 +79,5 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 ### Documentação (Pablo Eleuterio):
 - https://docs.google.com/document/d/10fqr4xczInaK7l_IVM16ahjTrSsUvD9RpdIwW-6g6fs/edit?usp=sharing
 
-## Documentação (Matheus Generoso):
+### Documentação (Matheus Generoso):
 - https://docs.google.com/document/d/1hDdkht1TfwV5tvy8cr8uES9gQV6Tb1EmID-PoU4vmD0/edit?usp=sharing
