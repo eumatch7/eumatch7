@@ -1,5 +1,3 @@
-- 👋 Oi, Eu sou @eumatch7
-- 👀 Vamos fazer o TCC?
 
 ## Sistema WEB para Gerenciamento de Estoque Laboratorial
 
