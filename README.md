@@ -35,15 +35,12 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 - Banco de dados utilizado: MySQL Workbench
 
 ## Estrutura do Projeto:
-- ?
-
-
-
-
-
-
+## TCC - Introdução (Iman Zuhrah):
+- https://docs.google.com/document/d/15fKSKGaBNS2sdm9DncuSGUXZ9_MbejnLgoXroKpDul0/edit?usp=sharing
 
 ## Configurações dos Ambientes:
+
+## Guias de instalação:
 #### VsCode:
 
 - Guia de instalção do editor de códigos (vscode):
@@ -53,8 +50,6 @@ https://docs.google.com/document/d/1ox-8mLrmiqCQhdl6is4NNLxfaSkC1Mfo5IRzKUpik8k/
 
 - Guia de Instalação do Framework Spring Tools (Spring Boot) na IDE Eclipse com imagens:
  https://docs.google.com/document/d/1leQ1IYmxatB0YAdWJPFC5Ex7Z57lWcHebUypEvFS5jc/edit?usp=sharing
-
-
 
 #### Workbench:
 
@@ -68,9 +63,6 @@ https://docs.google.com/document/d/1ox-8mLrmiqCQhdl6is4NNLxfaSkC1Mfo5IRzKUpik8k/
   
 ## Escopo do Projeto:
 - [https://docs.google.com/document/d/1OZlkzZZlPto7FwhkRi93ei8NkyQ9Thcc-gd2ZsLdAXI/edit?usp=sharing](https://docs.google.com/document/d/1OZlkzZZlPto7FwhkRi93ei8NkyQ9Thcc-gd2ZsLdAXI/edit?usp=sharing)
-
-## TCC - Introdução (Iman Zuhrah):
-- https://docs.google.com/document/d/15fKSKGaBNS2sdm9DncuSGUXZ9_MbejnLgoXroKpDul0/edit?usp=sharing
 
 ## Documentação ambiente e códigos
 
