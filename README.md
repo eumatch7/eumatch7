@@ -59,11 +59,10 @@ https://docs.google.com/document/d/1ox-8mLrmiqCQhdl6is4NNLxfaSkC1Mfo5IRzKUpik8k/
 - Guia de instalção do banco de dados (Mysql Workbench):
  https://docs.google.com/document/d/1LRAyPvH-ttcJy9RNTm1plIsPiJ3iO8CI-HP6xhx1PZ0/edit?usp=sharing
 
-## Tela de estoque feita no FIGMA: 
+#### Tela de estoque feita no FIGMA: 
 - https://www.figma.com/design/w2ERwYY13E2RN2DCtbOtn1/Untitled?node-id=0-1&m=dev&t=uMWlRL2Xt0fzaF8c-1
   
-## Escopo do Projeto:
-- [https://docs.google.com/document/d/1OZlkzZZlPto7FwhkRi93ei8NkyQ9Thcc-gd2ZsLdAXI/edit?usp=sharing](https://docs.google.com/document/d/1OZlkzZZlPto7FwhkRi93ei8NkyQ9Thcc-gd2ZsLdAXI/edit?usp=sharing)
+
 
 ## Configurações e documentação dos Ambientes:
 
