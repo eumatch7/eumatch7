@@ -35,7 +35,7 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 - Banco de dados utilizado: MySQL Workbench
 
 ## Estrutura do Projeto:
-## TCC - Introdução (Iman Zuhrah):
+### TCC - Introdução (Iman Zuhrah):
 - https://docs.google.com/document/d/15fKSKGaBNS2sdm9DncuSGUXZ9_MbejnLgoXroKpDul0/edit?usp=sharing
 
 
