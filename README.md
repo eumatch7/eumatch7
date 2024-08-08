@@ -38,7 +38,7 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 ## TCC - Introdução (Iman Zuhrah):
 - https://docs.google.com/document/d/15fKSKGaBNS2sdm9DncuSGUXZ9_MbejnLgoXroKpDul0/edit?usp=sharing
 
-## Configurações dos Ambientes:
+
 
 ## Guias de instalação:
 #### VsCode:
@@ -56,15 +56,13 @@ https://docs.google.com/document/d/1ox-8mLrmiqCQhdl6is4NNLxfaSkC1Mfo5IRzKUpik8k/
 - Guia de instalção do banco de dados (Mysql Workbench):
  https://docs.google.com/document/d/1LRAyPvH-ttcJy9RNTm1plIsPiJ3iO8CI-HP6xhx1PZ0/edit?usp=sharing
 
-
-
-## Figma: 
+## Tela de estoque feita no FIGMA: 
 - https://www.figma.com/design/w2ERwYY13E2RN2DCtbOtn1/Untitled?node-id=0-1&m=dev&t=uMWlRL2Xt0fzaF8c-1
   
 ## Escopo do Projeto:
 - [https://docs.google.com/document/d/1OZlkzZZlPto7FwhkRi93ei8NkyQ9Thcc-gd2ZsLdAXI/edit?usp=sharing](https://docs.google.com/document/d/1OZlkzZZlPto7FwhkRi93ei8NkyQ9Thcc-gd2ZsLdAXI/edit?usp=sharing)
 
-## Documentação ambiente e códigos
+## Configurações e documentação dos Ambientes:
 
 ### Documentação (Leticia santos):
 - https://docs.google.com/document/d/1Kaejc34WD1cN4UI53WJpksV5_zstMbJ1ra1WJ8eqg4A/edit?usp=sharing
