@@ -61,7 +61,9 @@ https://docs.google.com/document/d/1ox-8mLrmiqCQhdl6is4NNLxfaSkC1Mfo5IRzKUpik8k/
 
 #### Tela de estoque feita no FIGMA: 
 - https://www.figma.com/design/w2ERwYY13E2RN2DCtbOtn1/Untitled?node-id=0-1&m=dev&t=uMWlRL2Xt0fzaF8c-1
-  
+
+#### Tela de login feita no FIGMA: 
+- https://www.figma.com/design/W7u8eonoz29nh0by83j7Cm/Untitled?node-id=0-1&m=dev&t=TK3YmWgxtfgNzG56-1
 
 
 ## Configurações e documentação dos Ambientes:
