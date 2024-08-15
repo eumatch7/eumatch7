@@ -76,3 +76,6 @@ https://docs.google.com/document/d/1ox-8mLrmiqCQhdl6is4NNLxfaSkC1Mfo5IRzKUpik8k/
 
 ### Documentação (Matheus Generoso):
 - https://docs.google.com/document/d/1hDdkht1TfwV5tvy8cr8uES9gQV6Tb1EmID-PoU4vmD0/edit?usp=sharing
+
+### Documentação sobre a definição de nomenclaturas e formatação de código
+- https://docs.google.com/document/d/1zs2U2Li0HjbngAUiLc9YRAAjBAqS5dTHIjdGqt91pao/edit?usp=sharing
