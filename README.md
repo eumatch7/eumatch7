@@ -40,6 +40,7 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 - Linguagem de marcação: Html e CSS
 - Framework ou biblioteca utilizada: SpringBoot
 - Banco de dados utilizado: MySQL Workbench
+- Teste CRUD: PostMan
 
 ## Estrutura do Projeto:
 ### TCC - Metodologia (Iman Zuhrah):
