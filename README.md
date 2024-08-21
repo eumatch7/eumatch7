@@ -7,6 +7,9 @@ https://docs.google.com/spreadsheets/d/1KMng3RvVyUQiGcmHzAMdVptcSDxujDbTjWmoQ_gI
 ### Plano de Projeto (Disciplina de Modelagem de Projetos - Sexta-feira):
 https://docs.google.com/document/d/1RwaCRFIF2h-ygmyvfdTvKPOl5hahKyyP/edit?usp=sharing&ouid=104063258530389391293&rtpof=true&sd=true
 
+### Tabela de Requisitos (NF e F) e Regras de Negócio:
+https://docs.google.com/spreadsheets/d/16O5tKDyq9sK211lgifUROyUay7sOxrM7fZIqwUzodtc/edit?usp=sharing
+
 ### Equação de N° de Testes/Produtos:
 Q_Teste × Q_Frascos + Estoque_Restante = Q_Total
 
