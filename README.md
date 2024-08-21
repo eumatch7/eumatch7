@@ -78,6 +78,7 @@ https://docs.google.com/document/d/1ox-8mLrmiqCQhdl6is4NNLxfaSkC1Mfo5IRzKUpik8k/
   
 ### fluxograma:
 - https://drive.google.com/file/d/1fPx4Rz9_DPgLdtTxW5Gi5t-LobuBYpTg/view?usp=sharing
+- https://drive.google.com/file/d/1fPx4Rz9_DPgLdtTxW5Gi5t-LobuBYpTg/view?usp=sharing
 
 #### Tela de login feita no FIGMA: 
 - https://www.figma.com/design/W7u8eonoz29nh0by83j7Cm/Untitled?node-id=0-1&m=dev&t=TK3YmWgxtfgNzG56-1
