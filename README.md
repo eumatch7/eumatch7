@@ -73,7 +73,7 @@ https://docs.google.com/document/d/1ox-8mLrmiqCQhdl6is4NNLxfaSkC1Mfo5IRzKUpik8k/
 - Guia de instalção do banco de dados (Mysql Workbench):
  https://docs.google.com/document/d/1LRAyPvH-ttcJy9RNTm1plIsPiJ3iO8CI-HP6xhx1PZ0/edit?usp=sharing
 
-#### Entidade-Relacionada: 
+#### Entidade-Relaciomento: 
 - https://drive.google.com/file/d/1I9HXDsgxZPHTSvoIF1C8gKEztSfLA_tv/view?usp=sharing
   
 ### fluxograma:
