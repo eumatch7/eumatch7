@@ -10,6 +10,9 @@ https://drive.google.com/drive/folders/1sn6A_Kmc6iIeMc2021Xg5ymGsZFGTzTV?usp=sha
 ### Plano de Projeto (Disciplina de Modelagem de Projetos - Sexta-feira):
 https://docs.google.com/document/d/1RwaCRFIF2h-ygmyvfdTvKPOl5hahKyyP/edit?usp=sharing&ouid=104063258530389391293&rtpof=true&sd=true
 
+### Gráfico de Gantt (Disciplina de Modelagem de Projetos - Sexta-feira):
+https://drive.google.com/file/d/1z4i-1h5gFl2QO5Ftxm7NtaCOVnIlDusl/view?usp=sharing
+
 ### Tabela de Requisitos (NF e F) e Regras de Negócio:
 https://docs.google.com/spreadsheets/d/16O5tKDyq9sK211lgifUROyUay7sOxrM7fZIqwUzodtc/edit?usp=sharing
 
