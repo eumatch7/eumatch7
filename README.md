@@ -91,6 +91,9 @@ https://docs.google.com/document/d/1ox-8mLrmiqCQhdl6is4NNLxfaSkC1Mfo5IRzKUpik8k/
 ### Telas feitas no FIGMA: 
 - https://www.figma.com/design/W7u8eonoz29nh0by83j7Cm/Untitled?node-id=0-1&m=dev&t=TK3YmWgxtfgNzG56-1
 
+### Conexão Banco de Dados - Spring Boot (Java):
+https://docs.google.com/document/d/1EapM__hTepMPxanrOaae_IsP-bMZ_NlicYkAgphYHFM/edit?usp=sharing
+
 
 ## Configurações e documentação dos Ambientes:
 
