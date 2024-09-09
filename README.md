@@ -55,7 +55,7 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 - Teste CRUD: PostMan
 
 ## Estrutura do Projeto:
-### TCC - Metodologia (Iman Zuhrah):
+### TCC (Iman Zuhrah):
 - https://docs.google.com/document/d/15fKSKGaBNS2sdm9DncuSGUXZ9_MbejnLgoXroKpDul0/edit?usp=sharing
 ### Escopo do Projeto:
 - [https://docs.google.com/document/d/1OZlkzZZlPto7FwhkRi93ei8NkyQ9Thcc-gd2ZsLdAXI/edit?usp=sharing](https://docs.google.com/document/d/1OZlkzZZlPto7FwhkRi93ei8NkyQ9Thcc-gd2ZsLdAXI/edit?usp=sharing)
