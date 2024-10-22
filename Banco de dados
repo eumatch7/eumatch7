@@ -1,0 +1,117 @@
+create database if not exists estoqueLabTCC;
+use estoqueLabTCC;
+
+create table usuario(
+id int auto_increment not null,
+    cpf varchar(11) not null,
+    senha varchar(255) not null,
+    primary key (id)
+);
+
+create table Usuarios(
+	id int primary key auto_increment not null,
+    campo_cpf varchar(14) primary key,
+    campo_email varchar(255),
+    campo_nome varchar(255),
+    campo_senha varchar(255),
+    genero varchar(255)
+);
+
+create table cadastroProduto(
+id int auto_increment not null,
+    nomeProduto varchar(255) not null,
+    categoriaProduto varchar(255) not null,
+    codigoProduto varchar(255) not null,
+    unidadeMedida varchar(25) not null,
+    estoqueMin int not null,
+    estoqueMax int not null,
+    quantidadeTeste int not null,
+    numeroTubos int not null,
+    validade date not null,
+    localProduto varchar(30),
+    primary key (id)
+);
+
+create table cadastroPainel(
+idCadastroPainel int auto_increment not null,
+    nomeExame varchar(255) not null,
+    primary key(idCadastroPainel)
+);
+
+create table cadastroPaciente(
+idPaciente int auto_increment not null,
+    campoNomePaciente varchar(255) not null,
+    campoPedExame varchar(255) not null,
+    campoiIdLab varchar(255) not null,
+    campoProntuario varchar(255) not null,
+    campoPainel varchar(255) not null,
+    campoObservacao varchar(255) not null,
+    campoOpcaoExame varchar(255) not null,
+    dataAmostra date not null,
+    primary key(idPaciente),
+    foreign key (idPaciente) references cadastroPainel (idCadastroPainel)
+);
+
+———————————————————————
+create table Usuarios(
+id int auto_increment not null,
+campo_cpf varchar(14),
+campo_email varchar(255),
+campo_nome varchar(255), 
+campo_senha varchar(255),
+genero varchar(255)
+primary key(id)
+primary key(campo_cpf)
+);
+
+create table usuario(
+id int auto_increment not null,
+cpf varchar(14),
+senha varchar(255),
+primary key(id)
+);
+
+create table produtos(
+id int auto_increment not null,
+categoria_produto varchar(255),
+codigo_produto varchar(255),
+estoque_max int,
+estoque_min int,
+local_produto varchar(255),
+nome_produto varchar(255),
+numero_tubos int,
+quantidade_teste int,
+unidade_medida varchar(25),
+validade date,
+primary key(id)
+);
+
+create table paineis(
+id int auto_increment not null,
+nome_exame varchar(255),
+nomeTubo varchar(255),
+primary key(id)
+);
+
+create table pacientes(
+id bigint auto_increment not null,
+campo_nome_paciente varchar(255),
+campo_observacao varchar(255),
+campo_opcao_exame varchar(255),
+campo_painel varchar(255),
+campo_ped_exame int,
+campo_prontuario varchar(255),
+campoi_id_lab varchar(255),
+data_amostra date,
+primary key(id)
+foreign key (id) references paineis (id)
+);
+
+create table login(
+id int auto_increment not null,
+cpf int,
+senha varchar(255),
+primary key(id)
+primary key(campo_cpf)
+);
+
