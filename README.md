@@ -9,12 +9,17 @@ https://drive.google.com/drive/folders/1x6v7qqaS-7w-3q9y8sWIT6eV0hch6wZT?usp=sha
 https://drive.google.com/drive/folders/1Hb5A9P3ZuTUv7CF4lLbZRbKFb0lMeSL3?usp=sharing (crud-spring, joyce)
 https://drive.google.com/drive/folders/1sn6A_Kmc6iIeMc2021Xg5ymGsZFGTzTV?usp=sharing
 
+
+## Disciplina de Modelagem de Projetos - Sexta-feira
 ### Plano de Projeto (Disciplina de Modelagem de Projetos - Sexta-feira):
 https://docs.google.com/document/d/1RwaCRFIF2h-ygmyvfdTvKPOl5hahKyyP/edit?usp=sharing&ouid=104063258530389391293&rtpof=true&sd=true
 
 ### Gráfico de Gantt (Disciplina de Modelagem de Projetos - Sexta-feira):
 https://drive.google.com/file/d/1z4i-1h5gFl2QO5Ftxm7NtaCOVnIlDusl/view?usp=sharing
 
+### Atividade 25.10.24
+https://docs.google.com/document/d/1i38eHroBUqKYIzShuQwa1jFTkqmY9ASXjUdwACTzmeA/edit?usp=sharing
+### -------------------------------------------------------
 ### pasta Pablo:
 https://drive.google.com/drive/folders/1a1W6e9mwXNn-hce2mVOPSfnSA0QTT0kH?usp=sharing
 
