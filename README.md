@@ -7,7 +7,7 @@ https://docs.google.com/spreadsheets/d/1KMng3RvVyUQiGcmHzAMdVptcSDxujDbTjWmoQ_gI
 ### Pasta Projeto (Back-End):
 https://drive.google.com/drive/folders/1R_3F2cHyRSo3rPRGe_uoeh3Gk-k52L8M?usp=sharing (joyce)
 https://drive.google.com/drive/folders/1Hb5A9P3ZuTUv7CF4lLbZRbKFb0lMeSL3?usp=sharing (crud-spring, joyce)
-https://drive.google.com/drive/folders/1sn6A_Kmc6iIeMc2021Xg5ymGsZFGTzTV?usp=sharing
+https://drive.google.com/drive/folders/1sn6A_Kmc6iIeMc2021Xg5ymGsZFGTzTV?usp=sharing (iman)
 
 
 ## Disciplina de Modelagem de Projetos - Sexta-feira
