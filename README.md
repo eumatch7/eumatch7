@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1Tb7L_jChtmwf4qeRYdNBo_CkLJvcOBDi?usp=sha
 https://drive.google.com/drive/folders/1Hb5A9P3ZuTUv7CF4lLbZRbKFb0lMeSL3?usp=sharing (crud-spring, joyce)
 https://drive.google.com/drive/folders/1sn6A_Kmc6iIeMc2021Xg5ymGsZFGTzTV?usp=sharing (iman)
 
-## Apresentação PowerPoit:
+## Apresentação PowerPoint:
 https://docs.google.com/presentation/d/1xbx5TyONpgS1ZkuA_szkzfz8u_wQ_bxN/edit?usp=drive_link&ouid=110409969478276826129&rtpof=true&sd=true
 
 ## Disciplina de Modelagem de Projetos - Sexta-feira
