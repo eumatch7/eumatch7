@@ -78,6 +78,7 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 ### TCC (Iman Zuhrah):
 FINAL:
 - https://docs.google.com/document/d/1Vg5e2LvDQhzEY_bvfhWtPNDYNyu0R90HxNTuHvP3pvg/edit?usp=sharing
+
 ESBOÇO:
 - https://docs.google.com/document/d/15fKSKGaBNS2sdm9DncuSGUXZ9_MbejnLgoXroKpDul0/edit?usp=sharing
 ### Escopo do Projeto:
