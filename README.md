@@ -76,6 +76,9 @@ Para alcançar este objetivo, foram desenvolvidas as seguintes funcionalidades:
 
 ## Estrutura do Projeto:
 ### TCC (Iman Zuhrah):
+FINAL:
+- https://docs.google.com/document/d/1Vg5e2LvDQhzEY_bvfhWtPNDYNyu0R90HxNTuHvP3pvg/edit?usp=sharing
+ESBOÇO:
 - https://docs.google.com/document/d/15fKSKGaBNS2sdm9DncuSGUXZ9_MbejnLgoXroKpDul0/edit?usp=sharing
 ### Escopo do Projeto:
 - [https://docs.google.com/document/d/1OZlkzZZlPto7FwhkRi93ei8NkyQ9Thcc-gd2ZsLdAXI/edit?usp=sharing](https://docs.google.com/document/d/1OZlkzZZlPto7FwhkRi93ei8NkyQ9Thcc-gd2ZsLdAXI/edit?usp=sharing)
